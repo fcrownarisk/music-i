@@ -1,11 +1,11 @@
 import '../Drum/Audio'
 export function Africa(Animation)
 {
-A =Animation
-f =AnimationEffect
-r =AnimationEvent
-i =AnimationPlaybackEvent
-c =AnimationTimeline
+A = Animation
+f = AnimationEffect
+r = AnimationEvent
+i = AnimationPlaybackEvent
+c = AnimationTimeline
 }
 export function Drum()
 {
