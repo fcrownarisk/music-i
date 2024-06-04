@@ -1,4 +1,5 @@
-void Africa(Animation)
+import '../Drum/Audio'
+export function Africa(Animation)
 {
 A =Animation
 f =AnimationEffect
@@ -6,7 +7,7 @@ r =AnimationEvent
 i =AnimationPlaybackEvent
 c =AnimationTimeline
 }
-void Drum()
+export function Drum()
 {
     BigDrum = [['/'],['='],['='],['='],['\''],
               ['|'],[ 0 ],[ 0 ],[ 0 ],['|'],
